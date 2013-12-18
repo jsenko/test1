@@ -25,4 +25,13 @@ public class AppTest extends TestCase
     {
         assertTrue(true);
     }
+
+    /**
+     * Rigourous Test :-)
+     */
+    public void testFeature1()
+    {
+        assertTrue(true);
+        System.out.println("Feature 1 test 1.");
+    }
 }
