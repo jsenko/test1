@@ -26,4 +26,10 @@ public class AppTest extends TestCase
         assertTrue(true);
         System.out.println("Change 1.");
     }
+
+    public void testFeature2()
+    {
+        assertTrue(true);
+        System.out.println("Feature 2 Test.");
+    }
 }
